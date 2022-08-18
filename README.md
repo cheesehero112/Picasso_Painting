@@ -27,7 +27,7 @@
 
 Screenshot of Picasso Painting below
 
-![Picasso-painting-screenshot](https://github.com/cheesehero112/CSS_Markers/raw/main/ColorMarker-screenshot.png)
+![Picasso-painting-screenshot](https://github.com/cheesehero112/Picasso_Painting/raw/main/Picasso-painting-screenshot.png)
 
 
 
